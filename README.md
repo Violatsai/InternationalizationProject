@@ -1,1 +1,1 @@
-# internationalizationProject
+# InternationalizationProject
